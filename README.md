@@ -4,5 +4,5 @@
 
 ### For install 
 ```
-clone https://github.com/manwhocode/Opencart_2.3_install.git ./
+git clone https://github.com/manwhocode/Opencart_2.3_install.git ./
 ```
